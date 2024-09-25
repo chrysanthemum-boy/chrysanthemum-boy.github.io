@@ -8,3 +8,4 @@ redirect_from:
 ---
 
 Welcome to my personal website!
+Keeping on learning! Keen on living!
