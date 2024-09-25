@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!  
-Keep on learning! Keen on living!
+## Welcome to my personal website!  
+Keep on learning & Keen on living
