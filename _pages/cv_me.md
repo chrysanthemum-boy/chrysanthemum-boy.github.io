@@ -11,17 +11,23 @@ redirect_from:
 
 Education
 ======
-* M.S. in Systems Engineering for the Internet of Things, University College London, 2024 - 2025
+* M.S. in Systems Engineering for the Internet of Things, University College London, in school
 * B.S. in Computer Science and Technology, Shanghai Lixin University of Accounting and Finance , 2020 - 2024
 
-<!-- Work experience
+Internship experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* January 2024 - April 2024: Infiniflow Intern
+  * Python API Developer & Tester of AI-native Database [Infinity](https://github.com/infiniflow/infinity)
+  * Backend Developer of [RAGFlow](https://github.com/infiniflow/ragflow)
+  * Model Training
+  * Duties includes: develop file manager backend of RAGFlow, train the detection model of PDF, test the database interface by Pytest, help build CI system.
+  * Python, C++, Shell
+  * Pytest, Flask, Oatpp, YOLO, Linux, Docker 
+  * Project links: [Infinity](https://github.com/infiniflow/infinity) ![](https://img.shields.io/github/stars/infiniflow/infinity.svg)
+   & [RAGFlow](https://github.com/infiniflow/ragflow) ![](https://img.shields.io/github/stars/infiniflow/ragflow.svg)
 
-* Fall 2015: Research Assistant
+
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -29,9 +35,9 @@ Education
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
