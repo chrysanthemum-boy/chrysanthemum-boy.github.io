@@ -12,12 +12,12 @@ redirect_from:
 Education
 ======
 * M.S. in Systems Engineering for the Internet of Things, University College London, in school
-* B.S. in Computer Science and Technology, Shanghai Lixin University of Accounting and Finance , 2020 - 2024
+* B.S. in Computer Science and Technology, Shanghai Lixin University of Accounting and Finance, 2020 - 2024
 
 Internship experience
 ======
 * January 2024 - April 2024: Infiniflow Intern
-  * Python API Developer & Tester of AI-native Database [Infinity](https://github.com/infiniflow/infinity)
+  * Python API Develop & Test Engineer of AI-native Database [Infinity](https://github.com/infiniflow/infinity)
   * Backend Developer of [RAGFlow](https://github.com/infiniflow/ragflow)
   * Model Training
   * Duties includes: develop file manager backend of RAGFlow, train the detection model of PDF, test the database interface by Pytest, help build CI system.
