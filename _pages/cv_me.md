@@ -16,6 +16,11 @@ Education
 
 Internship experience
 ======
+* May 2024 - July 2024: Shanghai Dewu Information Group Co., Ltd. Intern
+  * Middleware test development, gateway platform test development, test case design and development. Perform functional test and stress test on the internal gateway system and pulsar.
+  * Java, Python
+  * TestNG, Jmeter, Automated testing
+
 * January 2024 - April 2024: Infiniflow Intern
   * Python API Develop & Test Engineer of AI-native Database [Infinity](https://github.com/infiniflow/infinity)
   * Backend Developer of [RAGFlow](https://github.com/infiniflow/ragflow)
