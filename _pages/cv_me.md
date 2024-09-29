@@ -5,9 +5,13 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+cvrurl: 'https://chrysanthemum-boy.github.io/files/YifanCai_cv.pdf'
 ---
 
 {% include base_path %}
+
+# [Click Here](https://chrysanthemum-boy.github.io/files/YifanCai_cv.pdf) 
+   
 
 Education
 ======
