@@ -1,5 +1,5 @@
 ---
-layout: archive
+
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -10,8 +10,8 @@ cvrurl: 'https://chrysanthemum-boy.github.io/files/YifanCai_cv.pdf'
 
 {% include base_path %}
 
-# [Click Here](https://chrysanthemum-boy.github.io/files/YifanCai_cv.pdf) 
-   
+# [Click Here](https://chrysanthemum-boy.github.io/files/YifanCai_cv.pdf)  
+# [Dogee](https://chrysanthemum-boy.github.io/files/Dogee_website.html) 
 
 Education
 ======
